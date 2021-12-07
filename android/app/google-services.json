@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1083748418047",
+    "firebase_url": "https://bjpquery-default-rtdb.firebaseio.com",
+    "project_id": "bjpquery",
+    "storage_bucket": "bjpquery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083748418047:android:fcb50d4ab7a58982f267ca",
+        "android_client_info": {
+          "package_name": "com.example.bjpquery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083748418047-jfr0qe8nu4k76k9faa4fm1rnbukpn4jn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bjpquery",
+            "certificate_hash": "6c7e50876fdad9e8c747adb5559ad36c877e06c9"
+          }
+        },
+        {
+          "client_id": "1083748418047-k4s4i12taqq39hbimb8omi1tj04dmt9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLsdoVMIuGh8pz5HMrb2Gol9vXwXs0Tn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083748418047-k4s4i12taqq39hbimb8omi1tj04dmt9e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083748418047-2i1qqdbtmcmbg7lgbu4q6pef4c4unldj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.proffus.shakti"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083748418047:android:25e954dd7933bd08f267ca",
+        "android_client_info": {
+          "package_name": "com.proffus.shakti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083748418047-sg3pscjo7ncvi70ih450s7dtq3vjlpvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proffus.shakti",
+            "certificate_hash": "690f85ce0b3ce97fb18266f178b9ee0d473f482a"
+          }
+        },
+        {
+          "client_id": "1083748418047-k4s4i12taqq39hbimb8omi1tj04dmt9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLsdoVMIuGh8pz5HMrb2Gol9vXwXs0Tn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083748418047-k4s4i12taqq39hbimb8omi1tj04dmt9e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083748418047-2i1qqdbtmcmbg7lgbu4q6pef4c4unldj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.proffus.shakti"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
